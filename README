@@ -1,1 +1,10 @@
-This is just for learing github!
+About zju_login_logout 
+
+This python code helps you login or logout the zju_wlan(ZheJiang university) without using web.
+
+You'd better run the code in terminal because I used the 'getpass' for protecting your passward not showing in the screen. However, it couldn't run smoothly in my pycharm.
+
+Under Window and Ubuntu, it works well!
+
+
+ 
