@@ -6,5 +6,5 @@ You'd better run the code in terminal because I used the 'getpass' for protectin
 
 Under Window and Ubuntu, it works well!
 
-
+Please use zju_edit.py instead of zju_login_logout. 
  
