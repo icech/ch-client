@@ -55,8 +55,8 @@ def LoginORLogout():
         except:
             print 'Check your WLAN!'
     else:                                                       #login
-        usrn = 'sitan'
-        pwd = 'yc0630yc'
+        usrn = 'sit'
+        pwd = '777'
         post_data['username'] = usrn
         post_data['password'] = pwd
         postdata = urllib.urlencode(post_data)
